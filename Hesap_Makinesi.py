@@ -15,7 +15,7 @@ def Bölme(a, b):
     return a / b
 
 def display_menu():
-    print("\nHesap Makinesi")
+    print("\nHesap Makinesi!!!")
     print("1. Toplama")
     print("2. Çıkarma")
     print("3. Çarpma")
